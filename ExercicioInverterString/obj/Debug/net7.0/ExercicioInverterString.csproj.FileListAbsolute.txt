@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\bin\Debug\net7.0\ExercicioInverterString.exe
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\bin\Debug\net7.0\ExercicioInverterString.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\bin\Debug\net7.0\ExercicioInverterString.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\bin\Debug\net7.0\ExercicioInverterString.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\bin\Debug\net7.0\ExercicioInverterString.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\refint\ExercicioInverterString.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ExercicioInverterString.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioInverterString\obj\Debug\net7.0\ref\ExercicioInverterString.dll
