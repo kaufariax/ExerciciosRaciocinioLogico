@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\bin\Debug\net7.0\ExercicioFaturamentoPorEstado.exe
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\bin\Debug\net7.0\ExercicioFaturamentoPorEstado.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\bin\Debug\net7.0\ExercicioFaturamentoPorEstado.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\bin\Debug\net7.0\ExercicioFaturamentoPorEstado.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\bin\Debug\net7.0\ExercicioFaturamentoPorEstado.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\refint\ExercicioFaturamentoPorEstado.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ExercicioFaturamentoPorEstado.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamentoPorEstado\obj\Debug\net7.0\ref\ExercicioFaturamentoPorEstado.dll
