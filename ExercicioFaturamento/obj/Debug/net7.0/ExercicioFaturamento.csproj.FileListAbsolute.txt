@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\bin\Debug\net7.0\ExercicioFaturamento.exe
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\bin\Debug\net7.0\ExercicioFaturamento.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\bin\Debug\net7.0\ExercicioFaturamento.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\bin\Debug\net7.0\ExercicioFaturamento.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\bin\Debug\net7.0\ExercicioFaturamento.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\refint\ExercicioFaturamento.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ExercicioFaturamento.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFaturamento\obj\Debug\net7.0\ref\ExercicioFaturamento.dll
