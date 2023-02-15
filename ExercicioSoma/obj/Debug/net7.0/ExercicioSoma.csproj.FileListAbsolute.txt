@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.exe
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\refint\ExercicioSoma.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioSoma\obj\Debug\net7.0\ref\ExercicioSoma.dll
