@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\bin\Debug\net7.0\ExercicioFibonacci.exe
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\bin\Debug\net7.0\ExercicioFibonacci.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\bin\Debug\net7.0\ExercicioFibonacci.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\bin\Debug\net7.0\ExercicioFibonacci.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\bin\Debug\net7.0\ExercicioFibonacci.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\refint\ExercicioFibonacci.dll
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.pdb
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ExercicioFibonacci.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExerciciosLogicos\ExercicioFibonacci\obj\Debug\net7.0\ref\ExercicioFibonacci.dll
