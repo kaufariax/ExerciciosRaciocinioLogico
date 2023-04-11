@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\bin\Debug\net7.0\PalavraMaisLonga.exe
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\bin\Debug\net7.0\PalavraMaisLonga.deps.json
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\bin\Debug\net7.0\PalavraMaisLonga.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\bin\Debug\net7.0\PalavraMaisLonga.dll
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\bin\Debug\net7.0\PalavraMaisLonga.pdb
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.dll
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\refint\PalavraMaisLonga.dll
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.pdb
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\PalavraMaisLonga.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\CoderByte\PalavraMaisLonga\obj\Debug\net7.0\ref\PalavraMaisLonga.dll
