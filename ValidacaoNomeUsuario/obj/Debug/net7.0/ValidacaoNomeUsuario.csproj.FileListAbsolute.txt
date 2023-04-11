@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\bin\Debug\net7.0\ValidacaoNomeUsuario.exe
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\bin\Debug\net7.0\ValidacaoNomeUsuario.deps.json
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\bin\Debug\net7.0\ValidacaoNomeUsuario.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\bin\Debug\net7.0\ValidacaoNomeUsuario.dll
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\bin\Debug\net7.0\ValidacaoNomeUsuario.pdb
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.dll
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\refint\ValidacaoNomeUsuario.dll
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.pdb
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ValidacaoNomeUsuario.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\CodeByte\ValidacaoNomeUsuario\obj\Debug\net7.0\ref\ValidacaoNomeUsuario.dll
